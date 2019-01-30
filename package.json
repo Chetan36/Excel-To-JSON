@@ -1,0 +1,14 @@
+{
+  "name": "excel-file-to-json",
+  "version": "1.0.0",
+  "description": "This application converts excel file to json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Priyabrata Pati",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "^0.14.1"
+  }
+}
